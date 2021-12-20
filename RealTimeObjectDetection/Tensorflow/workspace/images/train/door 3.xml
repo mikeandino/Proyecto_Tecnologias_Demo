@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>door 3.jpeg</filename>
+	<path>/home/michael/Documents/test/door 3.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1599</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Door</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>791</ymin>
+			<xmax>923</xmax>
+			<ymax>1393</ymax>
+		</bndbox>
+	</object>
+</annotation>

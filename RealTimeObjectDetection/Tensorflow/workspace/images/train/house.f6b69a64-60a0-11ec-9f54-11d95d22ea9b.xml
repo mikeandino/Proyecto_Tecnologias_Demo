@@ -1,0 +1,14 @@
+<annotation>
+	<folder>collectedImages</folder>
+	<filename>house.f6b69a64-60a0-11ec-9f54-11d95d22ea9b.jpg</filename>
+	<path>/home/michael/Documents/RealTimeObjectDetection/Tensorflow/workspace/images/collectedImages/house.f6b69a64-60a0-11ec-9f54-11d95d22ea9b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

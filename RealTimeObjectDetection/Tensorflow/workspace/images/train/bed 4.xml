@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>bed 4.jpeg</filename>
+	<path>/home/michael/Documents/test/bed 4.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1599</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>840</ymin>
+			<xmax>669</xmax>
+			<ymax>1206</ymax>
+		</bndbox>
+	</object>
+</annotation>

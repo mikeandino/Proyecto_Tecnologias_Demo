@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedImages</folder>
+	<filename>door.d60a5166-60a0-11ec-9f54-11d95d22ea9b.jpg</filename>
+	<path>/home/michael/Documents/RealTimeObjectDetection/Tensorflow/workspace/images/collectedImages/door.d60a5166-60a0-11ec-9f54-11d95d22ea9b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Door</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>287</ymin>
+			<xmax>426</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

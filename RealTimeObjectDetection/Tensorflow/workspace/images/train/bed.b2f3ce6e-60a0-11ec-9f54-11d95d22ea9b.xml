@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedImages</folder>
+	<filename>bed.b2f3ce6e-60a0-11ec-9f54-11d95d22ea9b.jpg</filename>
+	<path>/home/michael/Documents/RealTimeObjectDetection/Tensorflow/workspace/images/collectedImages/bed.b2f3ce6e-60a0-11ec-9f54-11d95d22ea9b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>231</ymin>
+			<xmax>294</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>
